@@ -27,6 +27,29 @@ Information about multi-hop reasoning
 
 
 ## Interpretability & Latent Multi-hop Reasoning 
+- [Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/abs/2309.00667)
+- [Physics of language models: Part 3.2, knowledge manipulation](https://arxiv.org/abs/2309.14402)
+- [Do large language models latently perform multi-hop reasoning?](https://aclanthology.org/2024.acl-long.550.pdf)
+- [Towards a theoretical understanding of the ’reversal curse’ via training dynamics](https://arxiv.org/abs/2405.04669)
+- [Grokked transformers are implicit reasoners: A mechanistic journey to the edge of generalization](https://arxiv.org/abs/2405.15071)
+- [Looking inward: Language models can learn about themselves by introspection](https://arxiv.org/abs/2410.13787)
+- [The Two-Hop Curse: LLMs trained on A->B, B->C fail to learn A-->C](https://arxiv.org/abs/2411.16353)
+- [Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?](https://arxiv.org/abs/2411.16679)
+- [Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries](https://aclanthology.org/2024.emnlp-main.781/)
+
+
 ## Analyses Papers 
+
+- [Compositional Questions Do Not Necessitate Multi-hop Reasoning](https://aclanthology.org/P19-1416/)
+- [Understanding Dataset Design Choices for Multi-hop Reasoning](https://aclanthology.org/N19-1405/)
+- [Multi-hop Question Answering via Reasoning Chains](https://arxiv.org/abs/1910.02610)
+- [Avoiding Reasoning Shortcuts: Adversarial Evaluation, Training, and Model Development for Multi-Hop QA](https://aclanthology.org/P19-1262/)
+- [Is Multihop QA in DiRe Condition? Measuring and Reducing Disconnected Reasoning](https://aclanthology.org/2020.emnlp-main.712/)
+- [Do Multi-Hop Question Answering Systems Know How to Answer the Single-Hop Sub-Questions?](https://aclanthology.org/2021.eacl-main.283/)
+- [Measuring and narrowing the compositionality gap in language models](https://aclanthology.org/2023.findings-emnlp.378.pdf)
+
+
+
+  
 ## Knowledge Editing 
 ## Multilingual 
